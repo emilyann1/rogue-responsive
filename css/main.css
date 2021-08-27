@@ -46,7 +46,7 @@ p {
 /*The widths are in a percentage!*/
 header {
 	width: 100%;
-	margin: 0 auto;
+	margin-right: 7%;
 	display: flex;
     justify-content: center;
     align-items: center;
@@ -219,5 +219,6 @@ footer span {
 		padding: 0;
 		border-bottom: none;
 		text-align: left;
+		margin: 0;
 	  }
 }
